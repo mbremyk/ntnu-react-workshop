@@ -13,6 +13,7 @@
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
+    "@telia/styleguide": "^1.33.23",
     "parcel": "^2.0.0-alpha.3.2"
   }
 }
